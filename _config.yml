@@ -25,7 +25,7 @@ linkedin_username: sheroze1123
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-primer
+theme: minima
 plugins:
   - jekyll-feed
 
