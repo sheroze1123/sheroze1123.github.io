@@ -6,7 +6,5 @@ layout: home
 list_title: Articles
 ---
 
-Hi everyone!
-
 ![Mask](/assets/images/mask.png)
 
