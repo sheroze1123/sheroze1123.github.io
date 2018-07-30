@@ -1,0 +1,5 @@
+Fix footer size
+Rename title
+Asset management for images/audio/scripts
+Custom theme
+Interactive animations for each article
