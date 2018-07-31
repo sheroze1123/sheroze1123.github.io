@@ -5,6 +5,6 @@
 layout: home
 ---
 
-![Me](/assets/images/me.JPG))
-![Sky](/assets/images/sky.JPG))
+![Me](/assets/images/me.JPG)
+![Sky](/assets/images/sky.JPG)
 
