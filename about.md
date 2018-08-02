@@ -8,7 +8,5 @@ I am a graduate student in Computational Science, Engineering, and Mathematics a
 
 I am interested in solving computational problems with an emphasis on mathematical analysis using robust software engineering principles. 
 
-![Sky](/assets/images/sky.JPG)
-
 ![Me](/assets/images/me.JPG)
 
