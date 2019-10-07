@@ -26,7 +26,7 @@ May 2016 — Ithaca, NY
 ## Coursework
 
 ### Graduate
-Reinforcement Learning  
+[Reinforcement Learning](http://www.cs.utexas.edu/~pstone/Courses/394Rfall19/)    
 Machine Learning  
 Bayesian Inference  
 Inverse Problems  
@@ -37,13 +37,13 @@ Functional Analysis
 Mathematical Modeling  
 
 ### Undergraduate
-Machine Learning  
-Computer Vision  
-Parallel Computing  
+[Machine Learning](http://www.cs.cornell.edu/courses/cs4780/2015fa/)    
+[Computer Vision](http://www.cs.cornell.edu/courses/cs4670/2013fa/)  
+[Parallel Computing](https://cornell-cs5220-f15.github.io)  
 Algorithms  
-Compilers  
-Operating Systems  
-Cloud Computing  
+[Compilers](https://www.cs.cornell.edu/courses/cs4120/2016sp/)  
+[Operating Systems](http://www.cs.cornell.edu/courses/cs4410/2014fa/index.php)  
+[Cloud Computing](https://www.cs.cornell.edu/courses/cs5412/2014sp/)  
 Computational Physics  
 
 ## Publications and Projects
@@ -72,7 +72,7 @@ Implemented a limited-memory BFGS optimization routine to compute maximum a post
 Extended a Sybase IQ log parser to capture executed statements and associated metadata. Created Kibana dashboards to display IQ server diagnostics. Wrote an efficient bulk renderer to offload data onto an Elasticsearch instance.
 
 ### Teaching — Numerical Linear Algebra, Computer Vision, Operating Systems
-Prepared student assignments including coding a microkernel in C, automated panorama stitching, convolutional networks, randomized singular value decomposition methods and algebraic eigenvalue problems.
+Prepared student assignments including [coding a microkernel in C](http://www.cs.cornell.edu/courses/cs4410/2015fa/4411.php), [automated panorama stitching](http://www.cs.cornell.edu/courses/cs4670/2015sp/projects/pa3/), [convolutional networks](http://www.cs.cornell.edu/courses/cs4670/2015sp/projects/pa5/), randomized singular value decomposition methods and algebraic eigenvalue problems.
 
 ## Academic Distinctions
 
