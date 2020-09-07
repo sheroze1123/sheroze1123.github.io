@@ -7,16 +7,16 @@ permalink: /resume/
 ## Education
 **Ph.D. in Computational Science**  
 Oden Institute for Computational Engineering and Sciences  
-The University of Texas at Austin  
+The University of Texas at Austin, GPA 3.75
 Expected May 2021 — Austin, TX  
 
 **M.Sc. in Computational Science**  
 Oden Institute for Computational Engineering and Sciences  
-The University of Texas at Austin  
+The University of Texas at Austin, GPA 3.75
 December 2018 — Austin, TX 
 
 **B.Sc. in Computer Science (Hons.)**  
-Cornell University  
+Cornell University, GPA 3.7 
 May 2016 — Ithaca, NY  
 
 ## Links
@@ -52,21 +52,25 @@ Computational Physics
 April 2018 – Present  
 Oden Institute - The University of Texas at Austin
 
-Enabling high-dimensional statistical inference by incorporating dimensionality reduction and physics-informed deep learning error models. Reduced-order models make Bayesian inference of simulation parameters with Markov Chain Monte Carlo methods using Hamiltonian dynamics tractable, albeit with an accuracy tradeoff. Introducing physics-informed deep learning error models improves accuracy in a data-driven fashion while leveraging automatic differentiation to obtain parameter sensitivities. This work applied to neutron transport and heat conduction models was presented at the 2019 SIAM Conference on Computational Science and Engineering in Spokane, WA and at the 2019 DTRA Annual Review in Fairfax, VA.
+Accelerating high-dimensional parameter inference and uncertainty quantification incorporating dimensionality reduction and physics-informed neural network error models to efficiently perform Bayesian inference of simulation parameters with Markov Chain Monte Carlo using Hamiltonian dynamics. This work was presented at the 2019 SIAM Conference on Computational Science and Engineering at Spokane, WA and the 2019 DTRA annual conference.
 
-### Compressed Inference — Python, TensorFlow, MPI, C++, NumPy
+### Model-Aware Neural Networks for Compression — Python, TensorFlow, MPI, C++, NumPy
 April 2018 – Present  
 Oden Institute - The University of Texas at Austin
 
-Accelerating a parameter inference routine by compressing time-series simulation data of a large-scale distributed seismic inversion model written in C++ and parallelized using MPI using a 3D convolutional autoencoder in TensorFlow. The compression model is trained in a data-parallel manner using Horovod on TACC supercomputers Maverick2 and Lonestar5.
+Accelerating parameter inference by compressing time-series data of large-scale distributed physical models using model-aware neural networks trained in a data-parallel manner using Horovod on TACC supercomputers Maverick2 and Lonestar5.
 
 ### Regularized Parameter Inference — Python, NumPy, SciPy, FEniCS, hIPPYlib
 August 2016 – April 2018 
 Oden Institute - The University of Texas at Austin
  
-Implemented a limited-memory BFGS optimization routine to compute maximum a posteriori estimates given observations to reconstruct parameters in photo-acoustic tomography modeled by semi-linear diffusion equations.
+Implemented a limited-memory higher order optimization routine to infer  parameters in partial differential equations and quantified uncertainty using Markov Chain Monte Carlo methods.
 
-## Work Experience
+## Professional Experience
+
+### Facebook Reality Labs, Redmond - Research Intern
+
+Extended a block automatic differentiation framework to accelerate  nonlinear optimization problems on differentiable manifolds to calibrate sensors from observations. Implemented a modular simulation framework to enable uncertainty quantification and faster development of unit tests and benchmarks. 
 
 ### Goldman Sachs, NYC — Technology Analyst
 Extended a Sybase IQ log parser to capture executed statements and associated metadata. Created Kibana dashboards to display IQ server diagnostics. Wrote an efficient bulk renderer to offload data onto an Elasticsearch instance.
