@@ -4,8 +4,13 @@ title: research
 permalink: /research/ 
 ---
 
-## [Deep learning error models to accelerate high-dimensional Bayesian inference](https://meetings.siam.org/sess/dsp_talk.cfm?p=95987)
-Ongoing work on improving reduced order models by better characterizing their error using deep learning methods. Improved reduced order models coupled with error models accelerate sampling-based Bayesian inference methods.
+## [Accelerating PDE-constrained Inverse Solutions with Deep Learning and Reduced Order Models](https://arxiv.org/abs/1912.08864)
+Improving reduced order models by better characterizing their error using bounded neural network discrepancy models to accelerate many query applications including sampling-based Bayesian inference methods, and maximum a posteriori estimation.
+
+---
+
+## [Solving Forward and Inverse Problems with Model-Aware Autoencoders](https://arxiv.org/abs/1912.04212)
+UQ-VAE: a flexible, adaptive, hybrid data/model-informed framework for training neural networks to model the posterior distribution of parameters of interest.
 
 ---
 
@@ -13,4 +18,4 @@ Ongoing work on improving reduced order models by better characterizing their er
 
 ---
 
-## Recurrent Neural Networks to predict ocean storms given microseismic measurements
+## [Recurrent Neural Networks to predict ocean storms given microseismic measurements](https://ui.adsabs.harvard.edu/abs/2020EGUGA..2222619C/abstract)
